@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://culture-egypt.onrender.com/sitemap.xml
